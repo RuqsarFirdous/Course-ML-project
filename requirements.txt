@@ -5,4 +5,7 @@ catboost
 xgboost
 dill
 flask
+scikit-learn
+joblib
+gunicorn
 #-e .
